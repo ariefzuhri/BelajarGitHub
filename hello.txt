@@ -6,3 +6,5 @@ Mencoba latihan squash and merge
 - [x] Squash 1
 - [x] Squash 2
 - [x] Squash 3
+
+Mencoba pull request dan mendapatkan code review
