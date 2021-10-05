@@ -6,3 +6,7 @@ Mencoba latihan squash and merge
 - [x] Squash 1
 - [x] Squash 2
 - [x] Squash 3
+
+Mencoba tarik permintaan dan mendapatkan ulasan kode
+
+Mencoba edit file pada pull request sebagai administrator
